@@ -121,7 +121,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 200}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 7160
+  controlID: 1606
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -146,7 +146,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 7152
+  controlID: 1607
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -595,9 +595,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 896.68524, y: 437.21005, z: -28.270418}
+    m_Target: {x: 933.4047, y: 545.58276, z: -29.863028}
     speed: 2
-    m_Value: {x: 896.68524, y: 437.21005, z: -28.270418}
+    m_Value: {x: 933.4047, y: 545.58276, z: -29.863028}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -648,9 +648,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 425.46704
+    m_Target: 576.65936
     speed: 2
-    m_Value: 425.46704
+    m_Value: 576.65936
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -770,9 +770,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: c0cdffff18ceffff96cfffff5eefffffbef4ffff26fbffff385a0000
+      m_SelectedIDs: 426d0000
+      m_LastClickedID: 27970
+      m_ExpandedIDs: 96e2ffffeee2ffff6ce4ffff26fbffff325a0000ac5a0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -837,22 +837,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/img
+    - Assets/scripts
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/img
+  - Assets/scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: E:\Tasks\Unity\CasinoGames\HashDice\HashDiceUnity
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 465c0000
-    m_LastClickedID: 23622
-    m_ExpandedIDs: 00000000345c0000365c0000385c00003a5c000000ca9a3b
+    m_SelectedIDs: 7a5c0000
+    m_LastClickedID: 23674
+    m_ExpandedIDs: 00000000645c0000665c0000685c00006a5c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -880,7 +880,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000345c0000365c0000385c00003a5c000000ca9a3b
+    m_ExpandedIDs: 00000000645c0000665c0000685c00006a5c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

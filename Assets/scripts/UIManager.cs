@@ -107,7 +107,7 @@ public class UIManager : MonoBehaviour
         isbetting = false;
         walletAmount_Text.text = res.amount.ToString("F2");
         if (res.gameResult)
-            info_Text.text = "You Win!  You earned " + res.earnAmount.ToString();
+            info_Text.text = "You Win!  You earned " + float.Parse(AmountField.text).ToString("F2")+ " + " +  (res.earnAmount - float.Parse(AmountField.text)).ToString("F2") +"!";
         else
             info_Text.text = "You Lose!";
         SetReelText(res.randomNumber);
